@@ -7,4 +7,3 @@
 - CRA
 - react-markdown
 - styled-components
-- react-hooks
